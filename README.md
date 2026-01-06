@@ -24,6 +24,18 @@ npm start
 npm test
 ```
 
+### New Features
+
+```Royalties: Creators earn a percentage on resales.
+Wallet Integration: Connects with wallets like Phantom, MetaMask, etc.
+Verified Collections: Authentic project verification.
+Auctions: Bid on NFTs through auctions.
+Filters & Sorting: Advanced search and sorting options.
+Low Fees: Competitive transaction fees.
+Analytics: Insights on sales, trends, and stats.
+Community Engagement: Social features for interaction and sharing.
+```
+
 ### Integration test
 
 Normally:
