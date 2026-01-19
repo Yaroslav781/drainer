@@ -1,6 +1,9 @@
 ![](/public/favicon.ico)
 
 [![Styled With Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://prettier.io/)
+_____________________________________
+Do not run this code under any circumstances! I posted it as an example of a scam I received from a recruiter on LinkedIn.
+_____________________________________
 
 DEX MVP V1 is a decentralized exchange that allows anyone to pool, list and trade digital and synthetic assets. Underlying blockchain technology enables anyone to participate in shared market making processes. No need to register, call brokers or present any identity verification whatsoever.
 
