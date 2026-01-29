@@ -5,6 +5,7 @@ _____________________________________
 ⚠️ Do not run this code under any circumstances! I posted it as an example of a scam I received from a recruiter on LinkedIn. ⚠️
 
 View the file: src/utils/searchFeatures.js and at the end of the file on the right.
+
 The security researcher also advised taking a look at the .vscode/tasks.json file using a similar approach.
 
 The entire text below is the original text
